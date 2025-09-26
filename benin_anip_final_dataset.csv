@@ -1,0 +1,802 @@
+indicator,country,countryiso3code,date,value,unit,obs_status,decimal,year,fertility_rate,life_expectancy,total_population,source,department,code
+SP.POP.TOTL,"{'id': 'BJ', 'value': 'Benin'}",,2024.0,14462724.0,,,0.0,2024,,,,,,
+SP.POP.TOTL,"{'id': 'BJ', 'value': 'Benin'}",,2023.0,14111034.0,,,0.0,2023,,,,,,
+SP.POP.TOTL,"{'id': 'BJ', 'value': 'Benin'}",,2022.0,13759501.0,,,0.0,2022,,,,,,
+SP.POP.TOTL,"{'id': 'BJ', 'value': 'Benin'}",,2021.0,13413417.0,,,0.0,2021,,,,,,
+SP.POP.TOTL,"{'id': 'BJ', 'value': 'Benin'}",,2020.0,13070169.0,,,0.0,2020,,,,,,
+SP.POP.TOTL,"{'id': 'BJ', 'value': 'Benin'}",,2019.0,12726755.0,,,0.0,2019,,,,,,
+SP.POP.TOTL,"{'id': 'BJ', 'value': 'Benin'}",,2018.0,12383347.0,,,0.0,2018,,,,,,
+SP.POP.TOTL,"{'id': 'BJ', 'value': 'Benin'}",,2017.0,12039780.0,,,0.0,2017,,,,,,
+SP.POP.TOTL,"{'id': 'BJ', 'value': 'Benin'}",,2016.0,11697842.0,,,0.0,2016,,,,,,
+SP.POP.TOTL,"{'id': 'BJ', 'value': 'Benin'}",,2015.0,11360681.0,,,0.0,2015,,,,,,
+NY.GDP.PCAP.CD,"{'id': 'BJ', 'value': 'Benin'}",,2024.0,1485.38018980894,,,1.0,2024,,,,,,
+NY.GDP.PCAP.CD,"{'id': 'BJ', 'value': 'Benin'}",,2023.0,1394.17784663045,,,1.0,2023,,,,,,
+NY.GDP.PCAP.CD,"{'id': 'BJ', 'value': 'Benin'}",,2022.0,1266.42710981159,,,1.0,2022,,,,,,
+NY.GDP.PCAP.CD,"{'id': 'BJ', 'value': 'Benin'}",,2021.0,1318.65158107487,,,1.0,2021,,,,,,
+NY.GDP.PCAP.CD,"{'id': 'BJ', 'value': 'Benin'}",,2020.0,1200.19426631122,,,1.0,2020,,,,,,
+NY.GDP.PCAP.CD,"{'id': 'BJ', 'value': 'Benin'}",,2019.0,1130.82135339795,,,1.0,2019,,,,,,
+NY.GDP.PCAP.CD,"{'id': 'BJ', 'value': 'Benin'}",,2018.0,1151.7409703472,,,1.0,2018,,,,,,
+NY.GDP.PCAP.CD,"{'id': 'BJ', 'value': 'Benin'}",,2017.0,1054.97408066814,,,1.0,2017,,,,,,
+NY.GDP.PCAP.CD,"{'id': 'BJ', 'value': 'Benin'}",,2016.0,1010.5338961993,,,1.0,2016,,,,,,
+NY.GDP.PCAP.CD,"{'id': 'BJ', 'value': 'Benin'}",,2015.0,1002.41886879614,,,1.0,2015,,,,,,
+SE.ADT.LITR.ZS,"{'id': 'BJ', 'value': 'Benin'}",,2022.0,47.0999984741211,,,0.0,2022,,,,,,
+SE.ADT.LITR.ZS,"{'id': 'BJ', 'value': 'Benin'}",,2021.0,43.834171295166,,,0.0,2021,,,,,,
+SE.ADT.LITR.ZS,"{'id': 'BJ', 'value': 'Benin'}",,2017.0,38.871208190918,,,0.0,2017,,,,,,
+female_literacy_rate,,,,36.4000015258789,,,,2022,,,,World Bank Gender Data,,
+female_literacy_rate,,,,33.1344985961914,,,,2021,,,,World Bank Gender Data,,
+female_literacy_rate,,,,28.5498504638672,,,,2017,,,,World Bank Gender Data,,
+male_literacy_rate,,,,57.9000015258789,,,,2022,,,,World Bank Gender Data,,
+male_literacy_rate,,,,56.4600715637207,,,,2021,,,,World Bank Gender Data,,
+male_literacy_rate,,,,51.0525016784668,,,,2017,,,,World Bank Gender Data,,
+female_labor_force,,,,74.321,,,,2024,,,,World Bank Gender Data,,
+female_labor_force,,,,74.183,,,,2023,,,,World Bank Gender Data,,
+female_labor_force,,,,74.264,,,,2022,,,,World Bank Gender Data,,
+female_labor_force,,,,74.791,,,,2021,,,,World Bank Gender Data,,
+female_labor_force,,,,73.677,,,,2020,,,,World Bank Gender Data,,
+female_labor_force,,,,74.325,,,,2019,,,,World Bank Gender Data,,
+female_labor_force,,,,73.755,,,,2018,,,,World Bank Gender Data,,
+female_labor_force,,,,73.179,,,,2017,,,,World Bank Gender Data,,
+female_labor_force,,,,72.597,,,,2016,,,,World Bank Gender Data,,
+female_labor_force,,,,72.007,,,,2015,,,,World Bank Gender Data,,
+Nombre de Pôles de Loisirs recensés,,,,27.0,Unités,,,2015,,,,Ministère des Sports du Bénin,Bénin,
+Nombre de Pôles de Loisirs recensés,,,,361.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Bénin,
+Nombre de Pôles de Loisirs recensés,,,,0.0,Unités,,,2015,,,,Ministère des Sports du Bénin,Alibori,
+Nombre de Pôles de Loisirs recensés,,,,13.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Alibori,
+Nombre de Pôles de Loisirs recensés,,,,2.0,Unités,,,2015,,,,Ministère des Sports du Bénin,Atakora,
+Nombre de Pôles de Loisirs recensés,,,,30.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Atakora,
+Nombre de Pôles de Loisirs recensés,,,,6.0,Unités,,,2015,,,,Ministère des Sports du Bénin,Atlantique,
+Nombre de Pôles de Loisirs recensés,,,,48.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Atlantique,
+Nombre de Pôles de Loisirs recensés,,,,4.0,Unités,,,2015,,,,Ministère des Sports du Bénin,Borgou,
+Nombre de Pôles de Loisirs recensés,,,,21.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Borgou,
+Nombre de Pôles de Loisirs recensés,,,,0.0,Unités,,,2015,,,,Ministère des Sports du Bénin,Collines,
+Nombre de Pôles de Loisirs recensés,,,,15.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Collines,
+Nombre de Pôles de Loisirs recensés,,,,0.0,Unités,,,2015,,,,Ministère des Sports du Bénin,Couffo,
+Nombre de Pôles de Loisirs recensés,,,,24.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Couffo,
+Nombre de Pôles de Loisirs recensés,,,,0.0,Unités,,,2015,,,,Ministère des Sports du Bénin,Donga,
+Nombre de Pôles de Loisirs recensés,,,,24.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Donga,
+Nombre de Pôles de Loisirs recensés,,,,11.0,Unités,,,2015,,,,Ministère des Sports du Bénin,Littoral,
+Nombre de Pôles de Loisirs recensés,,,,19.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Littoral,
+Nombre de Pôles de Loisirs recensés,,,,1.0,Unités,,,2015,,,,Ministère des Sports du Bénin,Mono,
+Nombre de Pôles de Loisirs recensés,,,,22.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Mono,
+Nombre de Pôles de Loisirs recensés,,,,2.0,Unités,,,2015,,,,Ministère des Sports du Bénin,Ouémé,
+Nombre de Pôles de Loisirs recensés,,,,61.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Ouémé,
+Nombre de Pôles de Loisirs recensés,,,,0.0,Unités,,,2015,,,,Ministère des Sports du Bénin,Plateau,
+Nombre de Pôles de Loisirs recensés,,,,32.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Plateau,
+Nombre de Pôles de Loisirs recensés,,,,1.0,Unités,,,2015,,,,Ministère des Sports du Bénin,Zou,
+Nombre de Pôles de Loisirs recensés,,,,52.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Zou,
+"Nombre de stades communaux, départementaux ou internationaux",,,,67.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Bénin,
+"Nombre de stades communaux, départementaux ou internationaux",,,,68.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Bénin,
+"Nombre de stades communaux, départementaux ou internationaux",,,,6.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Alibori,
+"Nombre de stades communaux, départementaux ou internationaux",,,,6.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Alibori,
+"Nombre de stades communaux, départementaux ou internationaux",,,,9.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Atakora,
+"Nombre de stades communaux, départementaux ou internationaux",,,,9.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Atakora,
+"Nombre de stades communaux, départementaux ou internationaux",,,,7.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Atlantique,
+"Nombre de stades communaux, départementaux ou internationaux",,,,7.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Atlantique,
+"Nombre de stades communaux, départementaux ou internationaux",,,,8.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Borgou,
+"Nombre de stades communaux, départementaux ou internationaux",,,,8.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Borgou,
+"Nombre de stades communaux, départementaux ou internationaux",,,,5.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Collines,
+"Nombre de stades communaux, départementaux ou internationaux",,,,5.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Collines,
+"Nombre de stades communaux, départementaux ou internationaux",,,,4.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Couffo,
+"Nombre de stades communaux, départementaux ou internationaux",,,,4.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Couffo,
+"Nombre de stades communaux, départementaux ou internationaux",,,,4.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Donga,
+"Nombre de stades communaux, départementaux ou internationaux",,,,4.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Donga,
+"Nombre de stades communaux, départementaux ou internationaux",,,,2.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Littoral,
+"Nombre de stades communaux, départementaux ou internationaux",,,,2.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Littoral,
+"Nombre de stades communaux, départementaux ou internationaux",,,,4.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Mono,
+"Nombre de stades communaux, départementaux ou internationaux",,,,4.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Mono,
+"Nombre de stades communaux, départementaux ou internationaux",,,,8.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Ouémé,
+"Nombre de stades communaux, départementaux ou internationaux",,,,8.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Ouémé,
+"Nombre de stades communaux, départementaux ou internationaux",,,,4.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Plateau,
+"Nombre de stades communaux, départementaux ou internationaux",,,,4.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Plateau,
+"Nombre de stades communaux, départementaux ou internationaux",,,,6.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Zou,
+"Nombre de stades communaux, départementaux ou internationaux",,,,7.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Zou,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,12.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Bénin,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,11.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Bénin,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,0.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Alibori,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,0.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Alibori,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,0.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Atakora,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,0.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Atakora,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,1.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Atlantique,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,1.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Atlantique,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,0.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Borgou,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,0.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Borgou,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,1.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Collines,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,1.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Collines,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,2.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Couffo,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,2.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Couffo,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,0.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Donga,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,0.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Donga,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,0.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Littoral,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,0.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Littoral,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,2.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Mono,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,2.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Mono,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,1.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Ouémé,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,1.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Ouémé,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,1.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Plateau,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,1.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Plateau,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,4.0,Unités,,,2016,,,,Ministère des Sports du Bénin,Zou,
+"Nombre de communes n'abritant ni stade communal, départemental ou international",,,,3.0,Unités,,,2017,,,,Ministère des Sports du Bénin,Zou,
+population_total,Benin,,,12535929.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_0_4,Benin,,,2131108.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_5_9,Benin,,,2093500.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_10_14,Benin,,,1629671.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_15_19,Benin,,,1278665.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_20_24,Benin,,,1078090.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_25_29,Benin,,,965267.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_30_34,Benin,,,814835.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_35_39,Benin,,,639332.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_40_44,Benin,,,513973.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_45_49,Benin,,,338470.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_50_54,Benin,,,325934.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_55_59,Benin,,,162967.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_60_64,Benin,,,200575.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_65_69,Benin,,,87752.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_70_74,Benin,,,100287.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_75_79,Benin,,,50144.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+pop_80_plus,Benin,,,125359.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+population_2021,Benin,,,1088923.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Alibori,
+population_2021,Benin,,,969719.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atacora,
+population_2021,Benin,,,1755192.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atlantique,
+population_2021,Benin,,,1524242.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Borgou,
+population_2021,Benin,,,900646.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Collines,
+population_2021,Benin,,,935607.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Couffo,
+population_2021,Benin,,,681789.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Donga,
+population_2021,Benin,,,852361.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Littoral,
+population_2021,Benin,,,624188.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Mono,
+population_2021,Benin,,,1353016.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Ouémé,
+population_2021,Benin,,,781261.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Plateau,
+population_2021,Benin,,,1068985.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Zou,
+density_hbts_km2,Benin,,,41.5,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Alibori,
+density_hbts_km2,Benin,,,47.3,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atacora,
+density_hbts_km2,Benin,,,542.9,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atlantique,
+density_hbts_km2,Benin,,,59.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Borgou,
+density_hbts_km2,Benin,,,64.7,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Collines,
+density_hbts_km2,Benin,,,389.2,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Couffo,
+density_hbts_km2,Benin,,,61.3,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Donga,
+density_hbts_km2,Benin,,,10789.4,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Littoral,
+density_hbts_km2,Benin,,,388.9,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Mono,
+density_hbts_km2,Benin,,,1056.2,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Ouémé,
+density_hbts_km2,Benin,,,239.4,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Plateau,
+density_hbts_km2,Benin,,,203.9,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Zou,
+births_expected,Benin,,,43621.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Alibori,
+births_expected,Benin,,,37076.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atacora,
+births_expected,Benin,,,58402.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atlantique,
+births_expected,Benin,,,58144.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Borgou,
+births_expected,Benin,,,33189.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Collines,
+births_expected,Benin,,,34759.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Couffo,
+births_expected,Benin,,,23104.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Donga,
+births_expected,Benin,,,34145.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Littoral,
+births_expected,Benin,,,25005.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Mono,
+births_expected,Benin,,,54202.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Ouémé,
+births_expected,Benin,,,31297.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Plateau,
+births_expected,Benin,,,42822.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Zou,
+pregnancies_expected,Benin,,,50164.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Alibori,
+pregnancies_expected,Benin,,,42637.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atacora,
+pregnancies_expected,Benin,,,67162.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atlantique,
+pregnancies_expected,Benin,,,66865.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Borgou,
+pregnancies_expected,Benin,,,38167.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Collines,
+pregnancies_expected,Benin,,,39972.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Couffo,
+pregnancies_expected,Benin,,,26570.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Donga,
+pregnancies_expected,Benin,,,39267.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Littoral,
+pregnancies_expected,Benin,,,28756.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Mono,
+pregnancies_expected,Benin,,,62332.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Ouémé,
+pregnancies_expected,Benin,,,35991.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Plateau,
+pregnancies_expected,Benin,,,49245.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Zou,
+women_12_35_months,Benin,,,112504.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Alibori,
+women_12_35_months,Benin,,,93200.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atacora,
+women_12_35_months,Benin,,,147308.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atlantique,
+women_12_35_months,Benin,,,153283.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Borgou,
+women_12_35_months,Benin,,,73138.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Collines,
+women_12_35_months,Benin,,,78819.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Couffo,
+women_12_35_months,Benin,,,58294.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Donga,
+women_12_35_months,Benin,,,88293.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Littoral,
+women_12_35_months,Benin,,,64563.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Mono,
+women_12_35_months,Benin,,,139811.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Ouémé,
+women_12_35_months,Benin,,,80810.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Plateau,
+women_12_35_months,Benin,,,110500.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Zou,
+pop_0_11mois,Benin,,,31818.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Alibori,
+pop_0_11mois,Benin,,,30576.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atacora,
+pop_0_11mois,Benin,,,51402.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atlantique,
+pop_0_11mois,Benin,,,44703.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Borgou,
+pop_0_11mois,Benin,,,26429.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Collines,
+pop_0_11mois,Benin,,,27453.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Couffo,
+pop_0_11mois,Benin,,,20002.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Donga,
+pop_0_11mois,Benin,,,25000.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Littoral,
+pop_0_11mois,Benin,,,18317.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Mono,
+pop_0_11mois,Benin,,,39688.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Ouémé,
+pop_0_11mois,Benin,,,22937.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Plateau,
+pop_0_11mois,Benin,,,31358.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Zou,
+pop_1_4ans,Benin,,,160179.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Alibori,
+pop_1_4ans,Benin,,,133427.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atacora,
+pop_1_4ans,Benin,,,243522.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atlantique,
+pop_1_4ans,Benin,,,212872.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Borgou,
+pop_1_4ans,Benin,,,124739.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Collines,
+pop_1_4ans,Benin,,,129552.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Couffo,
+pop_1_4ans,Benin,,,94527.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Donga,
+pop_1_4ans,Benin,,,118127.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Littoral,
+pop_1_4ans,Benin,,,86472.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Mono,
+pop_1_4ans,Benin,,,187522.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Ouémé,
+pop_1_4ans,Benin,,,108227.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Plateau,
+pop_1_4ans,Benin,,,148127.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Zou,
+pop_5_9ans,Benin,,,172676.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Alibori,
+pop_5_9ans,Benin,,,150349.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atacora,
+pop_5_9ans,Benin,,,248825.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atlantique,
+pop_5_9ans,Benin,,,239202.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Borgou,
+pop_5_9ans,Benin,,,132450.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Collines,
+pop_5_9ans,Benin,,,137582.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Couffo,
+pop_5_9ans,Benin,,,100447.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Donga,
+pop_5_9ans,Benin,,,125107.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Littoral,
+pop_5_9ans,Benin,,,91827.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Mono,
+pop_5_9ans,Benin,,,198727.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Ouémé,
+pop_5_9ans,Benin,,,114727.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Plateau,
+pop_5_9ans,Benin,,,156927.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Zou,
+pop_10_14ans,Benin,,,146497.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Alibori,
+pop_10_14ans,Benin,,,133391.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atacora,
+pop_10_14ans,Benin,,,248005.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atlantique,
+pop_10_14ans,Benin,,,225002.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Borgou,
+pop_10_14ans,Benin,,,126207.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Collines,
+pop_10_14ans,Benin,,,130622.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Couffo,
+pop_10_14ans,Benin,,,95107.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Donga,
+pop_10_14ans,Benin,,,124287.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Littoral,
+pop_10_14ans,Benin,,,87287.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Mono,
+pop_10_14ans,Benin,,,188487.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Ouémé,
+pop_10_14ans,Benin,,,108687.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Plateau,
+pop_10_14ans,Benin,,,149087.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Zou,
+pop_15_19ans,Benin,,,133129.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Alibori,
+pop_15_19ans,Benin,,,112539.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atacora,
+pop_15_19ans,Benin,,,211019.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atlantique,
+pop_15_19ans,Benin,,,198829.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Borgou,
+pop_15_19ans,Benin,,,109612.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Collines,
+pop_15_19ans,Benin,,,115532.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Couffo,
+pop_15_19ans,Benin,,,84207.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Donga,
+pop_15_19ans,Benin,,,109827.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Littoral,
+pop_15_19ans,Benin,,,77027.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Mono,
+pop_15_19ans,Benin,,,166227.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Ouémé,
+pop_15_19ans,Benin,,,95527.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Plateau,
+pop_15_19ans,Benin,,,131527.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Zou,
+pop_20_24ans,Benin,,,97694.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Alibori,
+pop_20_24ans,Benin,,,82341.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atacora,
+pop_20_24ans,Benin,,,162357.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atlantique,
+pop_20_24ans,Benin,,,167080.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Borgou,
+pop_20_24ans,Benin,,,84553.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Collines,
+pop_20_24ans,Benin,,,95002.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Couffo,
+pop_20_24ans,Benin,,,69204.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Donga,
+pop_20_24ans,Benin,,,94507.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Littoral,
+pop_20_24ans,Benin,,,63507.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Mono,
+pop_20_24ans,Benin,,,143507.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Ouémé,
+pop_20_24ans,Benin,,,82507.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Plateau,
+pop_20_24ans,Benin,,,113507.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Zou,
+pop_25_plus,Benin,,,346930.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Alibori,
+pop_25_plus,Benin,,,327096.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atacora,
+pop_25_plus,Benin,,,500055.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Atlantique,
+pop_25_plus,Benin,,,436554.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Borgou,
+pop_25_plus,Benin,,,296656.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Collines,
+pop_25_plus,Benin,,,300264.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Couffo,
+pop_25_plus,Benin,,,218295.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Donga,
+pop_25_plus,Benin,,,286406.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Littoral,
+pop_25_plus,Benin,,,209560.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Mono,
+pop_25_plus,Benin,,,429856.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Ouémé,
+pop_25_plus,Benin,,,262576.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Plateau,
+pop_25_plus,Benin,,,360476.0,,,,2021,,,,Ministère de la Santé Bénin (Annuaire 2021),Zou,
+infant_mortality_rate,Benin,,,93.9,,,,1996,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+infant_mortality_rate,Benin,,,89.1,,,,2001,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+infant_mortality_rate,Benin,,,90.0,,,,2002,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+infant_mortality_rate,Benin,,,67.0,,,,2006,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+infant_mortality_rate,Benin,,,42.0,,,,2011,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+infant_mortality_rate,Benin,,,68.1,,,,2013,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+infant_mortality_rate,Benin,,,55.0,,,,2018,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+maternal_mortality_ratio,Benin,,,498.0,,,,1996,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+maternal_mortality_ratio,Benin,,,474.4,,,,2001,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+maternal_mortality_ratio,Benin,,,474.4,,,,2002,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+maternal_mortality_ratio,Benin,,,397.0,,,,2006,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+maternal_mortality_ratio,Benin,,,335.5,,,,2013,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+maternal_mortality_ratio,Benin,,,391.0,,,,2018,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+life_expectancy,Benin,,,59.2,,,,2002,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+life_expectancy,Benin,,,63.8,,,,2013,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+fertility_rate,Benin,,,6.0,,,,1996,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+fertility_rate,Benin,,,5.6,,,,2001,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+fertility_rate,Benin,,,5.5,,,,2002,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+fertility_rate,Benin,,,5.7,,,,2006,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+fertility_rate,Benin,,,4.9,,,,2011,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+fertility_rate,Benin,,,4.8,,,,2013,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+fertility_rate,Benin,,,5.7,,,,2018,,,,Ministère de la Santé Bénin (Annuaire 2021),,
+valeur ajoutee du secteur des extractions ,Benin,,,26.09,,,,2015,,,,BCEAO EDEN,,BBBSR1003A0BP
+valeur ajoutee des industries ,Benin,,,675.68,,,,2015,,,,BCEAO EDEN,,BBBSR1004A0BP
+"Valeur ajoutee des gaz, eau, electricite",Benin,,,89.44,,,,2015,,,,BCEAO EDEN,,BBBSR1005A0BP
+Valeur ajoutee des bÃ¢timents et travaux publics aux PIB,Benin,,,311.97,,,,2015,,,,BCEAO EDEN,,BBBSR1006A0BP
+valeur ajoutee du commerce ,Benin,,,867.8,,,,2015,,,,BCEAO EDEN,,BBBSR1008A0BP
+"Valeur ajoutee des transports, entrepots et communications",Benin,,,714.2,,,,2015,,,,BCEAO EDEN,,BBBSR1009A0BP
+valeur ajoutee des autres services marchands ,Benin,,,862.7,,,,2015,,,,BCEAO EDEN,,BBBSR1010A0BP
+Droits et taxes a l'importation,Benin,,,537.41,,,,2015,,,,BCEAO EDEN,,BBBSR1011A0BP
+Droits et taxes à l'importation à prix constant,Benin,,,546.78,,,,2015,,,,BCEAO EDEN,,BBBSR1011A0BQ
+PIB marchand ,Benin,,,5862.21,,,,2015,,,,BCEAO EDEN,,BBBSR1012A0BP
+PIB marchand a prix constant ,Benin,,,4997.89,,,,2015,,,,BCEAO EDEN,,BBBSR1012A0BQ
+PIB non marchand ,Benin,,,870.6,,,,2015,,,,BCEAO EDEN,,BBBSR1013A0BP
+PIB non marchand a prix constant ,Benin,,,706.06,,,,2015,,,,BCEAO EDEN,,BBBSR1013A0BQ
+Produit interieur brut aux coÃ»ts des facteurs calcule,Benin,,,6107.12,,,,2015,,,,BCEAO EDEN,,BBBSR1014A0BP
+PRODUIT INTERIEUR BRUT (PIB) NOMINAL,Benin,,,6732.81,,,,2015,,,,BCEAO EDEN,,BBBSR1015A0BP
+PIB a prix constant ,Benin,,,5711.31,,,,2015,,,,BCEAO EDEN,,BBBSR1015A0BQ
+Consommation finale,Benin,,,5820.08,,,,2015,,,,BCEAO EDEN,,BBBSR1016A0BP
+Consommation finale a prix constant ,Benin,,,5130.52,,,,2015,,,,BCEAO EDEN,,BBBSR1016A0BQ
+Consommation publique ,Benin,,,768.31,,,,2015,,,,BCEAO EDEN,,BBBSR1017A0BP
+Consommation publique a prix constant ,Benin,,,643.49,,,,2015,,,,BCEAO EDEN,,BBBSR1017A0BQ
+Consommation privee ,Benin,,,5051.77,,,,2015,,,,BCEAO EDEN,,BBBSR1018A0BP
+Consommation privee a prix constant ,Benin,,,4487.03,,,,2015,,,,BCEAO EDEN,,BBBSR1018A0BQ
+Formation brute de capital fixe (FBCF) ,Benin,,,1379.94,,,,2015,,,,BCEAO EDEN,,BBBSR1019A0BP
+Formation brute de capital fixe a prix constant ,Benin,,,1463.59,,,,2015,,,,BCEAO EDEN,,BBBSR1019A0BQ
+Variation de stocks ,Benin,,,15.89,,,,2015,,,,BCEAO EDEN,,BBBSR1022A0BP
+Variation de stocks a prix constant ,Benin,,,25.39,,,,2015,,,,BCEAO EDEN,,BBBSR1022A0BQ
+Exportation des biens et services non facteurs ,Benin,,,1205.0,,,,2015,,,,BCEAO EDEN,,BBBSR1023A0BP
+Exportation des biens et services non facteurs a prix constant ,Benin,,,999.22,,,,2015,,,,BCEAO EDEN,,BBBSR1023A0BQ
+Importation des biens et services non facteurs ,Benin,,,1688.1,,,,2015,,,,BCEAO EDEN,,BBBSR1024A0BP
+Importation des biens et services non facteurs a prix constant ,Benin,,,1907.41,,,,2015,,,,BCEAO EDEN,,BBBSR1024A0BQ
+Deflateur du PIB,Benin,,,100.85,,,,2015,,,,BCEAO EDEN,,BBBSR1025A0BP
+Epargne interieure ,Benin,,,912.73,,,,2015,,,,BCEAO EDEN,,BBBSR1036A0BP
+Investissement,Benin,,,1395.83,,,,2015,,,,BCEAO EDEN,,BBBSR1037A0BP
+valeur ajoutee du secteur primaire,Benin,,,1776.93,,,,2015,,,,BCEAO EDEN,,BBBSR1038A0BP
+valeur ajoutee du secteur primaire a prix constant ,Benin,,,1530.86,,,,2015,,,,BCEAO EDEN,,BBBSR1038A0BQ
+valeur ajoutee du secteur secondaire ,Benin,,,1103.18,,,,2015,,,,BCEAO EDEN,,BBBSR1039A0BP
+valeur ajoutee du secteur secondaire a prix constant ,Benin,,,1054.86,,,,2015,,,,BCEAO EDEN,,BBBSR1039A0BQ
+valeur ajoutee du secteur tertiaire ,Benin,,,3852.71,,,,2015,,,,BCEAO EDEN,,BBBSR1040A0BP
+valeur ajoutee a prix constant du secteur tertiaire ,Benin,,,3041.28,,,,2015,,,,BCEAO EDEN,,BBBSR1040A0BQ
+Taux de croissance du PIB réel,Benin,,,1.78,,,,2015,,,,BCEAO EDEN,,BBBSR1041A0BP
+Taux d'investissement,Benin,,,20.73,,,,2015,,,,BCEAO EDEN,,BBBSR1042A0BP
+Taux d'epargne interieure,Benin,,,13.56,,,,2015,,,,BCEAO EDEN,,BBBSR1043A0BP
+              Poids (%) : Secteur primaire,Benin,,,26.4,,,,2015,,,,BCEAO EDEN,,BBBSR1044A0BP
+                                 Secteur secondaire,Benin,,,16.4,,,,2015,,,,BCEAO EDEN,,BBBSR1045A0BP
+                                 Secteur tertiaire,Benin,,,57.2,,,,2015,,,,BCEAO EDEN,,BBBSR1046A0BP
+              Contribution a la croissance : Primaire,Benin,,,0.0,,,,2015,,,,BCEAO EDEN,,BBBSR1047A0BP
+              Contribution a la croissance : Secondaire,Benin,,,2.0,,,,2015,,,,BCEAO EDEN,,BBBSR1048A0BP
+              Contribution a la croissance : Tertiaire,Benin,,,0.3,,,,2015,,,,BCEAO EDEN,,BBBSR1049A0BP
+Taux d'epargne interieure publique,Benin,,,0.4,,,,2015,,,,BCEAO EDEN,,BBBSR1050A0BP
+Taux d'investissement public,Benin,,,5.6,,,,2015,,,,BCEAO EDEN,,BBBSR1051A0BP
+valeur ajoutee du secteur des extractions ,Benin,,,26.556,,,,2016,,,,BCEAO EDEN,,BBBSR1003A0BP
+valeur ajoutee des industries ,Benin,,,695.708,,,,2016,,,,BCEAO EDEN,,BBBSR1004A0BP
+"Valeur ajoutee des gaz, eau, electricite",Benin,,,53.323,,,,2016,,,,BCEAO EDEN,,BBBSR1005A0BP
+Valeur ajoutee des bÃ¢timents et travaux publics aux PIB,Benin,,,324.379,,,,2016,,,,BCEAO EDEN,,BBBSR1006A0BP
+valeur ajoutee du commerce ,Benin,,,926.919,,,,2016,,,,BCEAO EDEN,,BBBSR1008A0BP
+"Valeur ajoutee des transports, entrepots et communications",Benin,,,759.396,,,,2016,,,,BCEAO EDEN,,BBBSR1009A0BP
+valeur ajoutee des autres services marchands ,Benin,,,908.112,,,,2016,,,,BCEAO EDEN,,BBBSR1010A0BP
+Droits et taxes a l'importation,Benin,,,584.313,,,,2016,,,,BCEAO EDEN,,BBBSR1011A0BP
+Droits et taxes à l'importation à prix constant,Benin,,,540.99,,,,2016,,,,BCEAO EDEN,,BBBSR1011A0BQ
+PIB marchand ,Benin,,,6222.912,,,,2016,,,,BCEAO EDEN,,BBBSR1012A0BP
+PIB marchand a prix constant ,Benin,,,5258.93,,,,2016,,,,BCEAO EDEN,,BBBSR1012A0BQ
+PIB non marchand ,Benin,,,782.318,,,,2016,,,,BCEAO EDEN,,BBBSR1013A0BP
+PIB non marchand a prix constant ,Benin,,,640.11,,,,2016,,,,BCEAO EDEN,,BBBSR1013A0BQ
+Produit interieur brut aux coÃ»ts des facteurs calcule,Benin,,,6527.799,,,,2016,,,,BCEAO EDEN,,BBBSR1014A0BP
+PRODUIT INTERIEUR BRUT (PIB) NOMINAL,Benin,,,7005.23,,,,2016,,,,BCEAO EDEN,,BBBSR1015A0BP
+PIB a prix constant ,Benin,,,5902.05,,,,2016,,,,BCEAO EDEN,,BBBSR1015A0BQ
+Consommation finale,Benin,,,6166.527,,,,2016,,,,BCEAO EDEN,,BBBSR1016A0BP
+Consommation finale a prix constant ,Benin,,,5216.98,,,,2016,,,,BCEAO EDEN,,BBBSR1016A0BQ
+Consommation publique ,Benin,,,720.195,,,,2016,,,,BCEAO EDEN,,BBBSR1017A0BP
+Consommation publique a prix constant ,Benin,,,603.23,,,,2016,,,,BCEAO EDEN,,BBBSR1017A0BQ
+Consommation privee ,Benin,,,5446.332,,,,2016,,,,BCEAO EDEN,,BBBSR1018A0BP
+Consommation privee a prix constant ,Benin,,,4613.74,,,,2016,,,,BCEAO EDEN,,BBBSR1018A0BQ
+Formation brute de capital fixe (FBCF) ,Benin,,,1381.606,,,,2016,,,,BCEAO EDEN,,BBBSR1019A0BP
+Formation brute de capital fixe a prix constant ,Benin,,,1468.34,,,,2016,,,,BCEAO EDEN,,BBBSR1019A0BQ
+Variation de stocks ,Benin,,,38.497,,,,2016,,,,BCEAO EDEN,,BBBSR1022A0BP
+Variation de stocks a prix constant ,Benin,,,53.22,,,,2016,,,,BCEAO EDEN,,BBBSR1022A0BQ
+Exportation des biens et services non facteurs ,Benin,,,1262.2,,,,2016,,,,BCEAO EDEN,,BBBSR1023A0BP
+Exportation des biens et services non facteurs a prix constant ,Benin,,,1133.93,,,,2016,,,,BCEAO EDEN,,BBBSR1023A0BQ
+Importation des biens et services non facteurs ,Benin,,,1843.6,,,,2016,,,,BCEAO EDEN,,BBBSR1024A0BP
+Importation des biens et services non facteurs a prix constant ,Benin,,,1970.42,,,,2016,,,,BCEAO EDEN,,BBBSR1024A0BQ
+Deflateur du PIB,Benin,,,100.684,,,,2016,,,,BCEAO EDEN,,BBBSR1025A0BP
+Epargne interieure ,Benin,,,838.703,,,,2016,,,,BCEAO EDEN,,BBBSR1036A0BP
+Investissement,Benin,,,1420.103,,,,2016,,,,BCEAO EDEN,,BBBSR1037A0BP
+valeur ajoutee du secteur primaire,Benin,,,1944.206,,,,2016,,,,BCEAO EDEN,,BBBSR1038A0BP
+valeur ajoutee du secteur primaire a prix constant ,Benin,,,1668.12,,,,2016,,,,BCEAO EDEN,,BBBSR1038A0BQ
+valeur ajoutee du secteur secondaire ,Benin,,,1099.966,,,,2016,,,,BCEAO EDEN,,BBBSR1039A0BP
+valeur ajoutee du secteur secondaire a prix constant ,Benin,,,1064.27,,,,2016,,,,BCEAO EDEN,,BBBSR1039A0BQ
+valeur ajoutee du secteur tertiaire ,Benin,,,3961.058,,,,2016,,,,BCEAO EDEN,,BBBSR1040A0BP
+valeur ajoutee a prix constant du secteur tertiaire ,Benin,,,3218.83,,,,2016,,,,BCEAO EDEN,,BBBSR1040A0BQ
+Taux de croissance du PIB réel,Benin,,,3.34,,,,2016,,,,BCEAO EDEN,,BBBSR1041A0BP
+Taux d'investissement,Benin,,,20.272,,,,2016,,,,BCEAO EDEN,,BBBSR1042A0BP
+Taux d'epargne interieure,Benin,,,11.973,,,,2016,,,,BCEAO EDEN,,BBBSR1043A0BP
+              Poids (%) : Secteur primaire,Benin,,,27.8,,,,2016,,,,BCEAO EDEN,,BBBSR1044A0BP
+                                 Secteur secondaire,Benin,,,15.7,,,,2016,,,,BCEAO EDEN,,BBBSR1045A0BP
+                                 Secteur tertiaire,Benin,,,56.5,,,,2016,,,,BCEAO EDEN,,BBBSR1046A0BP
+              Contribution a la croissance : Primaire,Benin,,,2.4,,,,2016,,,,BCEAO EDEN,,BBBSR1047A0BP
+              Contribution a la croissance : Secondaire,Benin,,,0.1,,,,2016,,,,BCEAO EDEN,,BBBSR1048A0BP
+              Contribution a la croissance : Tertiaire,Benin,,,0.8,,,,2016,,,,BCEAO EDEN,,BBBSR1049A0BP
+Taux d'epargne interieure publique,Benin,,,0.5,,,,2016,,,,BCEAO EDEN,,BBBSR1050A0BP
+Taux d'investissement public,Benin,,,4.3,,,,2016,,,,BCEAO EDEN,,BBBSR1051A0BP
+valeur ajoutee du secteur des extractions ,Benin,,,24.312,,,,2017,,,,BCEAO EDEN,,BBBSR1003A0BP
+valeur ajoutee des industries ,Benin,,,712.177,,,,2017,,,,BCEAO EDEN,,BBBSR1004A0BP
+"Valeur ajoutee des gaz, eau, electricite",Benin,,,59.927,,,,2017,,,,BCEAO EDEN,,BBBSR1005A0BP
+Valeur ajoutee des bÃ¢timents et travaux publics aux PIB,Benin,,,329.298,,,,2017,,,,BCEAO EDEN,,BBBSR1006A0BP
+valeur ajoutee du commerce ,Benin,,,1008.605,,,,2017,,,,BCEAO EDEN,,BBBSR1008A0BP
+"Valeur ajoutee des transports, entrepots et communications",Benin,,,791.265,,,,2017,,,,BCEAO EDEN,,BBBSR1009A0BP
+valeur ajoutee des autres services marchands ,Benin,,,913.682,,,,2017,,,,BCEAO EDEN,,BBBSR1010A0BP
+Droits et taxes a l'importation,Benin,,,555.879,,,,2017,,,,BCEAO EDEN,,BBBSR1011A0BP
+Droits et taxes à l'importation à prix constant,Benin,,,523.25,,,,2017,,,,BCEAO EDEN,,BBBSR1011A0BQ
+PIB marchand ,Benin,,,6526.225,,,,2017,,,,BCEAO EDEN,,BBBSR1012A0BP
+PIB marchand a prix constant ,Benin,,,5505.69,,,,2017,,,,BCEAO EDEN,,BBBSR1012A0BQ
+PIB non marchand ,Benin,,,889.2,,,,2017,,,,BCEAO EDEN,,BBBSR1013A0BP
+PIB non marchand a prix constant ,Benin,,,722.81,,,,2017,,,,BCEAO EDEN,,BBBSR1013A0BQ
+Produit interieur brut aux coÃ»ts des facteurs calcule,Benin,,,6888.866,,,,2017,,,,BCEAO EDEN,,BBBSR1014A0BP
+PRODUIT INTERIEUR BRUT (PIB) NOMINAL,Benin,,,7415.425,,,,2017,,,,BCEAO EDEN,,BBBSR1015A0BP
+PIB a prix constant ,Benin,,,6234.07,,,,2017,,,,BCEAO EDEN,,BBBSR1015A0BQ
+Consommation finale,Benin,,,6610.336,,,,2017,,,,BCEAO EDEN,,BBBSR1016A0BP
+Consommation finale a prix constant ,Benin,,,5500.58,,,,2017,,,,BCEAO EDEN,,BBBSR1016A0BQ
+Consommation publique ,Benin,,,819.22,,,,2017,,,,BCEAO EDEN,,BBBSR1017A0BP
+Consommation publique a prix constant ,Benin,,,683.5,,,,2017,,,,BCEAO EDEN,,BBBSR1017A0BQ
+Consommation privee ,Benin,,,5791.116,,,,2017,,,,BCEAO EDEN,,BBBSR1018A0BP
+Consommation privee a prix constant ,Benin,,,4817.08,,,,2017,,,,BCEAO EDEN,,BBBSR1018A0BQ
+Formation brute de capital fixe (FBCF) ,Benin,,,1401.252,,,,2017,,,,BCEAO EDEN,,BBBSR1019A0BP
+Formation brute de capital fixe a prix constant ,Benin,,,1552.98,,,,2017,,,,BCEAO EDEN,,BBBSR1019A0BQ
+Variation de stocks ,Benin,,,43.737,,,,2017,,,,BCEAO EDEN,,BBBSR1022A0BP
+Variation de stocks a prix constant ,Benin,,,58.08,,,,2017,,,,BCEAO EDEN,,BBBSR1022A0BQ
+Exportation des biens et services non facteurs ,Benin,,,1483.7,,,,2017,,,,BCEAO EDEN,,BBBSR1023A0BP
+Exportation des biens et services non facteurs a prix constant ,Benin,,,1296.82,,,,2017,,,,BCEAO EDEN,,BBBSR1023A0BQ
+Importation des biens et services non facteurs ,Benin,,,2123.6,,,,2017,,,,BCEAO EDEN,,BBBSR1024A0BP
+Importation des biens et services non facteurs a prix constant ,Benin,,,2174.4,,,,2017,,,,BCEAO EDEN,,BBBSR1024A0BQ
+Deflateur du PIB,Benin,,,100.218,,,,2017,,,,BCEAO EDEN,,BBBSR1025A0BP
+Epargne interieure ,Benin,,,805.089,,,,2017,,,,BCEAO EDEN,,BBBSR1036A0BP
+Investissement,Benin,,,1444.989,,,,2017,,,,BCEAO EDEN,,BBBSR1037A0BP
+valeur ajoutee du secteur primaire,Benin,,,2131.08,,,,2017,,,,BCEAO EDEN,,BBBSR1038A0BP
+valeur ajoutee du secteur primaire a prix constant ,Benin,,,1798.86,,,,2017,,,,BCEAO EDEN,,BBBSR1038A0BQ
+valeur ajoutee du secteur secondaire ,Benin,,,1125.714,,,,2017,,,,BCEAO EDEN,,BBBSR1039A0BP
+valeur ajoutee du secteur secondaire a prix constant ,Benin,,,1113.38,,,,2017,,,,BCEAO EDEN,,BBBSR1039A0BQ
+valeur ajoutee du secteur tertiaire ,Benin,,,4158.631,,,,2017,,,,BCEAO EDEN,,BBBSR1040A0BP
+valeur ajoutee a prix constant du secteur tertiaire ,Benin,,,3347.87,,,,2017,,,,BCEAO EDEN,,BBBSR1040A0BQ
+Taux de croissance du PIB réel,Benin,,,5.626,,,,2017,,,,BCEAO EDEN,,BBBSR1041A0BP
+Taux d'investissement,Benin,,,19.486,,,,2017,,,,BCEAO EDEN,,BBBSR1042A0BP
+Taux d'epargne interieure,Benin,,,10.857,,,,2017,,,,BCEAO EDEN,,BBBSR1043A0BP
+              Poids (%) : Secteur primaire,Benin,,,28.5,,,,2017,,,,BCEAO EDEN,,BBBSR1044A0BP
+                                 Secteur secondaire,Benin,,,15.1,,,,2017,,,,BCEAO EDEN,,BBBSR1045A0BP
+                                 Secteur tertiaire,Benin,,,56.4,,,,2017,,,,BCEAO EDEN,,BBBSR1046A0BP
+              Contribution a la croissance : Primaire,Benin,,,2.1,,,,2017,,,,BCEAO EDEN,,BBBSR1047A0BP
+              Contribution a la croissance : Secondaire,Benin,,,0.1,,,,2017,,,,BCEAO EDEN,,BBBSR1048A0BP
+              Contribution a la croissance : Tertiaire,Benin,,,3.5,,,,2017,,,,BCEAO EDEN,,BBBSR1049A0BP
+Taux d'epargne interieure publique,Benin,,,1.7,,,,2017,,,,BCEAO EDEN,,BBBSR1050A0BP
+Taux d'investissement public,Benin,,,6.7,,,,2017,,,,BCEAO EDEN,,BBBSR1051A0BP
+valeur ajoutee du secteur des extractions ,Benin,,,25.662,,,,2018,,,,BCEAO EDEN,,BBBSR1003A0BP
+valeur ajoutee des industries ,Benin,,,741.222,,,,2018,,,,BCEAO EDEN,,BBBSR1004A0BP
+"Valeur ajoutee des gaz, eau, electricite",Benin,,,57.654,,,,2018,,,,BCEAO EDEN,,BBBSR1005A0BP
+Valeur ajoutee des bÃ¢timents et travaux publics aux PIB,Benin,,,361.031,,,,2018,,,,BCEAO EDEN,,BBBSR1006A0BP
+valeur ajoutee du commerce ,Benin,,,1009.555,,,,2018,,,,BCEAO EDEN,,BBBSR1008A0BP
+"Valeur ajoutee des transports, entrepots et communications",Benin,,,874.537,,,,2018,,,,BCEAO EDEN,,BBBSR1009A0BP
+valeur ajoutee des autres services marchands ,Benin,,,952.456,,,,2018,,,,BCEAO EDEN,,BBBSR1010A0BP
+Droits et taxes a l'importation,Benin,,,710.121,,,,2018,,,,BCEAO EDEN,,BBBSR1011A0BP
+Droits et taxes à l'importation à prix constant,Benin,,,649.47,,,,2018,,,,BCEAO EDEN,,BBBSR1011A0BQ
+PIB marchand ,Benin,,,7046.033,,,,2018,,,,BCEAO EDEN,,BBBSR1012A0BP
+PIB marchand a prix constant ,Benin,,,5900.4,,,,2018,,,,BCEAO EDEN,,BBBSR1012A0BQ
+PIB non marchand ,Benin,,,918.52,,,,2018,,,,BCEAO EDEN,,BBBSR1013A0BP
+PIB non marchand a prix constant ,Benin,,,739.45,,,,2018,,,,BCEAO EDEN,,BBBSR1013A0BQ
+Produit interieur brut aux coÃ»ts des facteurs calcule,Benin,,,7254.432,,,,2018,,,,BCEAO EDEN,,BBBSR1014A0BP
+PRODUIT INTERIEUR BRUT (PIB) NOMINAL,Benin,,,7964.553,,,,2018,,,,BCEAO EDEN,,BBBSR1015A0BP
+PIB a prix constant ,Benin,,,6644.21,,,,2018,,,,BCEAO EDEN,,BBBSR1015A0BQ
+Consommation finale,Benin,,,6743.78,,,,2018,,,,BCEAO EDEN,,BBBSR1016A0BP
+Consommation finale a prix constant ,Benin,,,5613.98,,,,2018,,,,BCEAO EDEN,,BBBSR1016A0BQ
+Consommation publique ,Benin,,,859.346,,,,2018,,,,BCEAO EDEN,,BBBSR1017A0BP
+Consommation publique a prix constant ,Benin,,,711.25,,,,2018,,,,BCEAO EDEN,,BBBSR1017A0BQ
+Consommation privee ,Benin,,,5884.434,,,,2018,,,,BCEAO EDEN,,BBBSR1018A0BP
+Consommation privee a prix constant ,Benin,,,4902.73,,,,2018,,,,BCEAO EDEN,,BBBSR1018A0BQ
+Formation brute de capital fixe (FBCF) ,Benin,,,1579.847,,,,2018,,,,BCEAO EDEN,,BBBSR1019A0BP
+Formation brute de capital fixe a prix constant ,Benin,,,1717.79,,,,2018,,,,BCEAO EDEN,,BBBSR1019A0BQ
+Variation de stocks ,Benin,,,96.926,,,,2018,,,,BCEAO EDEN,,BBBSR1022A0BP
+Variation de stocks a prix constant ,Benin,,,126.82,,,,2018,,,,BCEAO EDEN,,BBBSR1022A0BQ
+Exportation des biens et services non facteurs ,Benin,,,2122.2,,,,2018,,,,BCEAO EDEN,,BBBSR1023A0BP
+Exportation des biens et services non facteurs a prix constant ,Benin,,,1301.18,,,,2018,,,,BCEAO EDEN,,BBBSR1023A0BQ
+Importation des biens et services non facteurs ,Benin,,,2578.2,,,,2018,,,,BCEAO EDEN,,BBBSR1024A0BP
+Importation des biens et services non facteurs a prix constant ,Benin,,,2115.56,,,,2018,,,,BCEAO EDEN,,BBBSR1024A0BQ
+Deflateur du PIB,Benin,,,100.775,,,,2018,,,,BCEAO EDEN,,BBBSR1025A0BP
+Epargne interieure ,Benin,,,1220.773,,,,2018,,,,BCEAO EDEN,,BBBSR1036A0BP
+Investissement,Benin,,,1676.773,,,,2018,,,,BCEAO EDEN,,BBBSR1037A0BP
+valeur ajoutee du secteur primaire,Benin,,,2313.795,,,,2018,,,,BCEAO EDEN,,BBBSR1038A0BP
+valeur ajoutee du secteur primaire a prix constant ,Benin,,,1925.52,,,,2018,,,,BCEAO EDEN,,BBBSR1038A0BQ
+valeur ajoutee du secteur secondaire ,Benin,,,1185.569,,,,2018,,,,BCEAO EDEN,,BBBSR1039A0BP
+valeur ajoutee du secteur secondaire a prix constant ,Benin,,,1183.65,,,,2018,,,,BCEAO EDEN,,BBBSR1039A0BQ
+valeur ajoutee du secteur tertiaire ,Benin,,,4465.189,,,,2018,,,,BCEAO EDEN,,BBBSR1040A0BP
+valeur ajoutee a prix constant du secteur tertiaire ,Benin,,,3495.19,,,,2018,,,,BCEAO EDEN,,BBBSR1040A0BQ
+Taux de croissance du PIB réel,Benin,,,6.579,,,,2018,,,,BCEAO EDEN,,BBBSR1041A0BP
+Taux d'investissement,Benin,,,21.053,,,,2018,,,,BCEAO EDEN,,BBBSR1042A0BP
+Taux d'epargne interieure,Benin,,,15.328,,,,2018,,,,BCEAO EDEN,,BBBSR1043A0BP
+              Poids (%) : Secteur primaire,Benin,,,28.1,,,,2018,,,,BCEAO EDEN,,BBBSR1044A0BP
+                                 Secteur secondaire,Benin,,,14.6,,,,2018,,,,BCEAO EDEN,,BBBSR1045A0BP
+                                 Secteur tertiaire,Benin,,,57.3,,,,2018,,,,BCEAO EDEN,,BBBSR1046A0BP
+              Contribution a la croissance : Primaire,Benin,,,2.1,,,,2018,,,,BCEAO EDEN,,BBBSR1047A0BP
+              Contribution a la croissance : Secondaire,Benin,,,0.7,,,,2018,,,,BCEAO EDEN,,BBBSR1048A0BP
+              Contribution a la croissance : Tertiaire,Benin,,,3.9,,,,2018,,,,BCEAO EDEN,,BBBSR1049A0BP
+Taux d'epargne interieure publique,Benin,,,2.2,,,,2018,,,,BCEAO EDEN,,BBBSR1050A0BP
+Taux d'investissement public,Benin,,,5.6,,,,2018,,,,BCEAO EDEN,,BBBSR1051A0BP
+valeur ajoutee du secteur des extractions ,Benin,,,28.822,,,,2019,,,,BCEAO EDEN,,BBBSR1003A0BP
+valeur ajoutee des industries ,Benin,,,726.655,,,,2019,,,,BCEAO EDEN,,BBBSR1004A0BP
+"Valeur ajoutee des gaz, eau, electricite",Benin,,,68.55,,,,2019,,,,BCEAO EDEN,,BBBSR1005A0BP
+Valeur ajoutee des bÃ¢timents et travaux publics aux PIB,Benin,,,476.268,,,,2019,,,,BCEAO EDEN,,BBBSR1006A0BP
+valeur ajoutee du commerce ,Benin,,,1099.568,,,,2019,,,,BCEAO EDEN,,BBBSR1008A0BP
+"Valeur ajoutee des transports, entrepots et communications",Benin,,,1014.23,,,,2019,,,,BCEAO EDEN,,BBBSR1009A0BP
+valeur ajoutee des autres services marchands ,Benin,,,943.156,,,,2019,,,,BCEAO EDEN,,BBBSR1010A0BP
+Droits et taxes a l'importation,Benin,,,699.484,,,,2019,,,,BCEAO EDEN,,BBBSR1011A0BP
+Droits et taxes à l'importation à prix constant,Benin,,,625.75,,,,2019,,,,BCEAO EDEN,,BBBSR1011A0BQ
+PIB marchand ,Benin,,,7589.671,,,,2019,,,,BCEAO EDEN,,BBBSR1012A0BP
+PIB marchand a prix constant ,Benin,,,6299.73,,,,2019,,,,BCEAO EDEN,,BBBSR1012A0BQ
+PIB non marchand ,Benin,,,1021.143,,,,2019,,,,BCEAO EDEN,,BBBSR1013A0BP
+PIB non marchand a prix constant ,Benin,,,809.98,,,,2019,,,,BCEAO EDEN,,BBBSR1013A0BQ
+Produit interieur brut aux coÃ»ts des facteurs calcule,Benin,,,7911.33,,,,2019,,,,BCEAO EDEN,,BBBSR1014A0BP
+PRODUIT INTERIEUR BRUT (PIB) NOMINAL,Benin,,,8610.814,,,,2019,,,,BCEAO EDEN,,BBBSR1015A0BP
+PIB a prix constant ,Benin,,,7115.31,,,,2019,,,,BCEAO EDEN,,BBBSR1015A0BQ
+Consommation finale,Benin,,,7165.721,,,,2019,,,,BCEAO EDEN,,BBBSR1016A0BP
+Consommation finale a prix constant ,Benin,,,5889.3,,,,2019,,,,BCEAO EDEN,,BBBSR1016A0BQ
+Consommation publique ,Benin,,,911.339,,,,2019,,,,BCEAO EDEN,,BBBSR1017A0BP
+Consommation publique a prix constant ,Benin,,,745.42,,,,2019,,,,BCEAO EDEN,,BBBSR1017A0BQ
+Consommation privee ,Benin,,,6254.382,,,,2019,,,,BCEAO EDEN,,BBBSR1018A0BP
+Consommation privee a prix constant ,Benin,,,5143.88,,,,2019,,,,BCEAO EDEN,,BBBSR1018A0BQ
+Formation brute de capital fixe (FBCF) ,Benin,,,1739.01,,,,2019,,,,BCEAO EDEN,,BBBSR1019A0BP
+Formation brute de capital fixe a prix constant ,Benin,,,1898.75,,,,2019,,,,BCEAO EDEN,,BBBSR1019A0BQ
+Variation de stocks ,Benin,,,129.083,,,,2019,,,,BCEAO EDEN,,BBBSR1022A0BP
+Variation de stocks a prix constant ,Benin,,,153.55,,,,2019,,,,BCEAO EDEN,,BBBSR1022A0BQ
+Exportation des biens et services non facteurs ,Benin,,,2100.5,,,,2019,,,,BCEAO EDEN,,BBBSR1023A0BP
+Exportation des biens et services non facteurs a prix constant ,Benin,,,1395.49,,,,2019,,,,BCEAO EDEN,,BBBSR1023A0BQ
+Importation des biens et services non facteurs ,Benin,,,2523.5,,,,2019,,,,BCEAO EDEN,,BBBSR1024A0BP
+Importation des biens et services non facteurs a prix constant ,Benin,,,2221.78,,,,2019,,,,BCEAO EDEN,,BBBSR1024A0BQ
+Deflateur du PIB,Benin,,,100.956,,,,2019,,,,BCEAO EDEN,,BBBSR1025A0BP
+Epargne interieure ,Benin,,,1445.093,,,,2019,,,,BCEAO EDEN,,BBBSR1036A0BP
+Investissement,Benin,,,1868.093,,,,2019,,,,BCEAO EDEN,,BBBSR1037A0BP
+valeur ajoutee du secteur primaire,Benin,,,2532.938,,,,2019,,,,BCEAO EDEN,,BBBSR1038A0BP
+valeur ajoutee du secteur primaire a prix constant ,Benin,,,2034.68,,,,2019,,,,BCEAO EDEN,,BBBSR1038A0BQ
+valeur ajoutee du secteur secondaire ,Benin,,,1300.295,,,,2019,,,,BCEAO EDEN,,BBBSR1039A0BP
+valeur ajoutee du secteur secondaire a prix constant ,Benin,,,1423.11,,,,2019,,,,BCEAO EDEN,,BBBSR1039A0BQ
+valeur ajoutee du secteur tertiaire ,Benin,,,4777.581,,,,2019,,,,BCEAO EDEN,,BBBSR1040A0BP
+valeur ajoutee a prix constant du secteur tertiaire ,Benin,,,3637.71,,,,2019,,,,BCEAO EDEN,,BBBSR1040A0BQ
+Taux de croissance du PIB réel,Benin,,,7.09,,,,2019,,,,BCEAO EDEN,,BBBSR1041A0BP
+Taux d'investissement,Benin,,,21.695,,,,2019,,,,BCEAO EDEN,,BBBSR1042A0BP
+Taux d'epargne interieure,Benin,,,16.782,,,,2019,,,,BCEAO EDEN,,BBBSR1043A0BP
+              Poids (%) : Secteur primaire,Benin,,,26.9,,,,2019,,,,BCEAO EDEN,,BBBSR1044A0BP
+                                 Secteur secondaire,Benin,,,16.3,,,,2019,,,,BCEAO EDEN,,BBBSR1045A0BP
+                                 Secteur tertiaire,Benin,,,56.8,,,,2019,,,,BCEAO EDEN,,BBBSR1046A0BP
+              Contribution a la croissance : Primaire,Benin,,,1.5,,,,2019,,,,BCEAO EDEN,,BBBSR1047A0BP
+              Contribution a la croissance : Secondaire,Benin,,,2.0,,,,2019,,,,BCEAO EDEN,,BBBSR1048A0BP
+              Contribution a la croissance : Tertiaire,Benin,,,3.4,,,,2019,,,,BCEAO EDEN,,BBBSR1049A0BP
+Taux d'epargne interieure publique,Benin,,,2.2,,,,2019,,,,BCEAO EDEN,,BBBSR1050A0BP
+Taux d'investissement public,Benin,,,3.9,,,,2019,,,,BCEAO EDEN,,BBBSR1051A0BP
+valeur ajoutee du secteur des extractions ,Benin,,,39.079,,,,2020,,,,BCEAO EDEN,,BBBSR1003A0BP
+valeur ajoutee des industries ,Benin,,,872.766,,,,2020,,,,BCEAO EDEN,,BBBSR1004A0BP
+"Valeur ajoutee des gaz, eau, electricite",Benin,,,71.207,,,,2020,,,,BCEAO EDEN,,BBBSR1005A0BP
+Valeur ajoutee des bÃ¢timents et travaux publics aux PIB,Benin,,,484.533,,,,2020,,,,BCEAO EDEN,,BBBSR1006A0BP
+valeur ajoutee du commerce ,Benin,,,1057.963,,,,2020,,,,BCEAO EDEN,,BBBSR1008A0BP
+"Valeur ajoutee des transports, entrepots et communications",Benin,,,1013.083,,,,2020,,,,BCEAO EDEN,,BBBSR1009A0BP
+valeur ajoutee des autres services marchands ,Benin,,,1133.888,,,,2020,,,,BCEAO EDEN,,BBBSR1010A0BP
+Droits et taxes a l'importation,Benin,,,784.032,,,,2020,,,,BCEAO EDEN,,BBBSR1011A0BP
+Droits et taxes à l'importation à prix constant,Benin,,,774.22,,,,2020,,,,BCEAO EDEN,,BBBSR1011A0BQ
+PIB marchand ,Benin,,,7898.764,,,,2020,,,,BCEAO EDEN,,BBBSR1012A0BP
+PIB marchand a prix constant ,Benin,,,6486.31,,,,2020,,,,BCEAO EDEN,,BBBSR1012A0BQ
+PIB non marchand ,Benin,,,1110.046,,,,2020,,,,BCEAO EDEN,,BBBSR1013A0BP
+PIB non marchand a prix constant ,Benin,,,890.39,,,,2020,,,,BCEAO EDEN,,BBBSR1013A0BQ
+Produit interieur brut aux coÃ»ts des facteurs calcule,Benin,,,8224.779,,,,2020,,,,BCEAO EDEN,,BBBSR1014A0BP
+PRODUIT INTERIEUR BRUT (PIB) NOMINAL,Benin,,,9008.8,,,,2020,,,,BCEAO EDEN,,BBBSR1015A0BP
+PIB a prix constant ,Benin,,,7385.06,,,,2020,,,,BCEAO EDEN,,BBBSR1015A0BQ
+Consommation finale,Benin,,,7157.901,,,,2020,,,,BCEAO EDEN,,BBBSR1016A0BP
+Consommation finale a prix constant ,Benin,,,5855.85,,,,2020,,,,BCEAO EDEN,,BBBSR1016A0BQ
+Consommation publique ,Benin,,,1026.947,,,,2020,,,,BCEAO EDEN,,BBBSR1017A0BP
+Consommation publique a prix constant ,Benin,,,828.38,,,,2020,,,,BCEAO EDEN,,BBBSR1017A0BQ
+Consommation privee ,Benin,,,6130.954,,,,2020,,,,BCEAO EDEN,,BBBSR1018A0BP
+Consommation privee a prix constant ,Benin,,,5027.47,,,,2020,,,,BCEAO EDEN,,BBBSR1018A0BQ
+Formation brute de capital fixe (FBCF) ,Benin,,,2062.642,,,,2020,,,,BCEAO EDEN,,BBBSR1019A0BP
+Formation brute de capital fixe a prix constant ,Benin,,,2411.39,,,,2020,,,,BCEAO EDEN,,BBBSR1019A0BQ
+Variation de stocks ,Benin,,,38.497,,,,2020,,,,BCEAO EDEN,,BBBSR1022A0BP
+Variation de stocks a prix constant ,Benin,,,38.05,,,,2020,,,,BCEAO EDEN,,BBBSR1022A0BQ
+Exportation des biens et services non facteurs ,Benin,,,2013.592,,,,2020,,,,BCEAO EDEN,,BBBSR1023A0BP
+Exportation des biens et services non facteurs a prix constant ,Benin,,,1038.27,,,,2020,,,,BCEAO EDEN,,BBBSR1023A0BQ
+Importation des biens et services non facteurs ,Benin,,,2263.822,,,,2020,,,,BCEAO EDEN,,BBBSR1024A0BP
+Importation des biens et services non facteurs a prix constant ,Benin,,,1958.5,,,,2020,,,,BCEAO EDEN,,BBBSR1024A0BQ
+Deflateur du PIB,Benin,,,100.801,,,,2020,,,,BCEAO EDEN,,BBBSR1025A0BP
+Epargne interieure ,Benin,,,1850.9,,,,2020,,,,BCEAO EDEN,,BBBSR1036A0BP
+Investissement,Benin,,,2101.1,,,,2020,,,,BCEAO EDEN,,BBBSR1037A0BP
+valeur ajoutee du secteur primaire,Benin,,,2442.214,,,,2020,,,,BCEAO EDEN,,BBBSR1038A0BP
+valeur ajoutee du secteur primaire a prix constant ,Benin,,,2060.67,,,,2020,,,,BCEAO EDEN,,BBBSR1038A0BQ
+valeur ajoutee du secteur secondaire ,Benin,,,1467.585,,,,2020,,,,BCEAO EDEN,,BBBSR1039A0BP
+valeur ajoutee du secteur secondaire a prix constant ,Benin,,,1338.89,,,,2020,,,,BCEAO EDEN,,BBBSR1039A0BQ
+valeur ajoutee du secteur tertiaire ,Benin,,,5099.012,,,,2020,,,,BCEAO EDEN,,BBBSR1040A0BP
+valeur ajoutee a prix constant du secteur tertiaire ,Benin,,,3800.47,,,,2020,,,,BCEAO EDEN,,BBBSR1040A0BQ
+Taux de croissance du PIB réel,Benin,,,3.8,,,,2020,,,,BCEAO EDEN,,BBBSR1041A0BP
+Taux d'investissement,Benin,,,23.3,,,,2020,,,,BCEAO EDEN,,BBBSR1042A0BP
+Taux d'epargne interieure,Benin,,,20.5,,,,2020,,,,BCEAO EDEN,,BBBSR1043A0BP
+              Poids (%) : Secteur primaire,Benin,,,27.1,,,,2020,,,,BCEAO EDEN,,BBBSR1044A0BP
+                                 Secteur secondaire,Benin,,,16.3,,,,2020,,,,BCEAO EDEN,,BBBSR1045A0BP
+                                 Secteur tertiaire,Benin,,,56.6,,,,2020,,,,BCEAO EDEN,,BBBSR1046A0BP
+              Contribution a la croissance : Primaire,Benin,,,0.4,,,,2020,,,,BCEAO EDEN,,BBBSR1047A0BP
+              Contribution a la croissance : Secondaire,Benin,,,1.1,,,,2020,,,,BCEAO EDEN,,BBBSR1048A0BP
+              Contribution a la croissance : Tertiaire,Benin,,,4.5,,,,2020,,,,BCEAO EDEN,,BBBSR1049A0BP
+Taux d'epargne interieure publique,Benin,,,0.5,,,,2020,,,,BCEAO EDEN,,BBBSR1050A0BP
+Taux d'investissement public,Benin,,,6.9,,,,2020,,,,BCEAO EDEN,,BBBSR1051A0BP
+valeur ajoutee du secteur des extractions ,Benin,,,40.422,,,,2021,,,,BCEAO EDEN,,BBBSR1003A0BP
+valeur ajoutee des industries ,Benin,,,929.936,,,,2021,,,,BCEAO EDEN,,BBBSR1004A0BP
+"Valeur ajoutee des gaz, eau, electricite",Benin,,,81.189,,,,2021,,,,BCEAO EDEN,,BBBSR1005A0BP
+Valeur ajoutee des bÃ¢timents et travaux publics aux PIB,Benin,,,563.854,,,,2021,,,,BCEAO EDEN,,BBBSR1006A0BP
+valeur ajoutee du commerce ,Benin,,,1160.073,,,,2021,,,,BCEAO EDEN,,BBBSR1008A0BP
+"Valeur ajoutee des transports, entrepots et communications",Benin,,,875.504,,,,2021,,,,BCEAO EDEN,,BBBSR1009A0BP
+valeur ajoutee des autres services marchands ,Benin,,,1242.486,,,,2021,,,,BCEAO EDEN,,BBBSR1010A0BP
+Droits et taxes a l'importation,Benin,,,894.514,,,,2021,,,,BCEAO EDEN,,BBBSR1011A0BP
+Droits et taxes à l'importation à prix constant,Benin,,,870.78,,,,2021,,,,BCEAO EDEN,,BBBSR1011A0BQ
+PIB marchand ,Benin,,,8586.581,,,,2021,,,,BCEAO EDEN,,BBBSR1012A0BP
+PIB marchand a prix constant ,Benin,,,6945.86,,,,2021,,,,BCEAO EDEN,,BBBSR1012A0BQ
+PIB non marchand ,Benin,,,1223.113,,,,2021,,,,BCEAO EDEN,,BBBSR1013A0BP
+PIB non marchand a prix constant ,Benin,,,958.46,,,,2021,,,,BCEAO EDEN,,BBBSR1013A0BQ
+Produit interieur brut aux coÃ»ts des facteurs calcule,Benin,,,8915.18,,,,2021,,,,BCEAO EDEN,,BBBSR1014A0BP
+PRODUIT INTERIEUR BRUT (PIB) NOMINAL,Benin,,,9809.7,,,,2021,,,,BCEAO EDEN,,BBBSR1015A0BP
+PIB a prix constant ,Benin,,,7913.49,,,,2021,,,,BCEAO EDEN,,BBBSR1015A0BQ
+Consommation finale,Benin,,,7589.43,,,,2021,,,,BCEAO EDEN,,BBBSR1016A0BP
+Consommation finale a prix constant ,Benin,,,6145.18,,,,2021,,,,BCEAO EDEN,,BBBSR1016A0BQ
+Consommation publique ,Benin,,,988.421,,,,2021,,,,BCEAO EDEN,,BBBSR1017A0BP
+Consommation publique a prix constant ,Benin,,,898.93,,,,2021,,,,BCEAO EDEN,,BBBSR1017A0BQ
+Consommation privee ,Benin,,,6601.008,,,,2021,,,,BCEAO EDEN,,BBBSR1018A0BP
+Consommation privee a prix constant ,Benin,,,5246.24,,,,2021,,,,BCEAO EDEN,,BBBSR1018A0BQ
+Formation brute de capital fixe (FBCF) ,Benin,,,2608.721,,,,2021,,,,BCEAO EDEN,,BBBSR1019A0BP
+Formation brute de capital fixe a prix constant ,Benin,,,2841.09,,,,2021,,,,BCEAO EDEN,,BBBSR1019A0BQ
+Variation de stocks ,Benin,,,39.55,,,,2021,,,,BCEAO EDEN,,BBBSR1022A0BP
+Variation de stocks a prix constant ,Benin,,,46.03,,,,2021,,,,BCEAO EDEN,,BBBSR1022A0BQ
+Exportation des biens et services non facteurs ,Benin,,,2303.669,,,,2021,,,,BCEAO EDEN,,BBBSR1023A0BP
+Exportation des biens et services non facteurs a prix constant ,Benin,,,1168.58,,,,2021,,,,BCEAO EDEN,,BBBSR1023A0BQ
+Importation des biens et services non facteurs ,Benin,,,2731.676,,,,2021,,,,BCEAO EDEN,,BBBSR1024A0BP
+Importation des biens et services non facteurs a prix constant ,Benin,,,2287.39,,,,2021,,,,BCEAO EDEN,,BBBSR1024A0BQ
+Deflateur du PIB,Benin,,,101.619,,,,2021,,,,BCEAO EDEN,,BBBSR1025A0BP
+Epargne interieure ,Benin,,,2220.3,,,,2021,,,,BCEAO EDEN,,BBBSR1036A0BP
+Investissement,Benin,,,2648.3,,,,2021,,,,BCEAO EDEN,,BBBSR1037A0BP
+valeur ajoutee du secteur primaire,Benin,,,2798.603,,,,2021,,,,BCEAO EDEN,,BBBSR1038A0BP
+valeur ajoutee du secteur primaire a prix constant ,Benin,,,2167.78,,,,2021,,,,BCEAO EDEN,,BBBSR1038A0BQ
+valeur ajoutee du secteur secondaire ,Benin,,,1615.402,,,,2021,,,,BCEAO EDEN,,BBBSR1039A0BP
+valeur ajoutee du secteur secondaire a prix constant ,Benin,,,1460.95,,,,2021,,,,BCEAO EDEN,,BBBSR1039A0BQ
+valeur ajoutee du secteur tertiaire ,Benin,,,5395.69,,,,2021,,,,BCEAO EDEN,,BBBSR1040A0BP
+valeur ajoutee a prix constant du secteur tertiaire ,Benin,,,4039.5,,,,2021,,,,BCEAO EDEN,,BBBSR1040A0BQ
+Taux de croissance du PIB réel,Benin,,,7.2,,,,2021,,,,BCEAO EDEN,,BBBSR1041A0BP
+Taux d'investissement,Benin,,,27.0,,,,2021,,,,BCEAO EDEN,,BBBSR1042A0BP
+Taux d'epargne interieure,Benin,,,22.6,,,,2021,,,,BCEAO EDEN,,BBBSR1043A0BP
+              Poids (%) : Secteur primaire,Benin,,,28.5,,,,2021,,,,BCEAO EDEN,,BBBSR1044A0BP
+                                 Secteur secondaire,Benin,,,16.5,,,,2021,,,,BCEAO EDEN,,BBBSR1045A0BP
+                                 Secteur tertiaire,Benin,,,55.0,,,,2021,,,,BCEAO EDEN,,BBBSR1046A0BP
+              Contribution a la croissance : Primaire,Benin,,,1.4,,,,2021,,,,BCEAO EDEN,,BBBSR1047A0BP
+              Contribution a la croissance : Secondaire,Benin,,,1.5,,,,2021,,,,BCEAO EDEN,,BBBSR1048A0BP
+              Contribution a la croissance : Tertiaire,Benin,,,4.3,,,,2021,,,,BCEAO EDEN,,BBBSR1049A0BP
+Taux d'epargne interieure publique,Benin,,,1.5,,,,2021,,,,BCEAO EDEN,,BBBSR1050A0BP
+Taux d'investissement public,Benin,,,8.2,,,,2021,,,,BCEAO EDEN,,BBBSR1051A0BP
+valeur ajoutee du secteur des extractions ,Benin,,,43.994,,,,2022,,,,BCEAO EDEN,,BBBSR1003A0BP
+valeur ajoutee des industries ,Benin,,,1066.261,,,,2022,,,,BCEAO EDEN,,BBBSR1004A0BP
+"Valeur ajoutee des gaz, eau, electricite",Benin,,,93.552,,,,2022,,,,BCEAO EDEN,,BBBSR1005A0BP
+Valeur ajoutee des bÃ¢timents et travaux publics aux PIB,Benin,,,643.383,,,,2022,,,,BCEAO EDEN,,BBBSR1006A0BP
+valeur ajoutee du commerce ,Benin,,,1247.737,,,,2022,,,,BCEAO EDEN,,BBBSR1008A0BP
+"Valeur ajoutee des transports, entrepots et communications",Benin,,,1151.449,,,,2022,,,,BCEAO EDEN,,BBBSR1009A0BP
+valeur ajoutee des autres services marchands ,Benin,,,1341.031,,,,2022,,,,BCEAO EDEN,,BBBSR1010A0BP
+Droits et taxes a l'importation,Benin,,,997.765,,,,2022,,,,BCEAO EDEN,,BBBSR1011A0BP
+Droits et taxes à l'importation à prix constant,Benin,,,947.55,,,,2022,,,,BCEAO EDEN,,BBBSR1011A0BQ
+PIB marchand ,Benin,,,9504.649,,,,2022,,,,BCEAO EDEN,,BBBSR1012A0BP
+PIB marchand a prix constant ,Benin,,,7373.36,,,,2022,,,,BCEAO EDEN,,BBBSR1012A0BQ
+PIB non marchand ,Benin,,,1349.859,,,,2022,,,,BCEAO EDEN,,BBBSR1013A0BP
+PIB non marchand a prix constant ,Benin,,,1024.91,,,,2022,,,,BCEAO EDEN,,BBBSR1013A0BQ
+Produit interieur brut aux coÃ»ts des facteurs calcule,Benin,,,9856.743,,,,2022,,,,BCEAO EDEN,,BBBSR1014A0BP
+PRODUIT INTERIEUR BRUT (PIB) NOMINAL,Benin,,,10854.5,,,,2022,,,,BCEAO EDEN,,BBBSR1015A0BP
+PIB a prix constant ,Benin,,,8408.34,,,,2022,,,,BCEAO EDEN,,BBBSR1015A0BQ
+Consommation finale,Benin,,,8111.694,,,,2022,,,,BCEAO EDEN,,BBBSR1016A0BP
+Consommation finale a prix constant ,Benin,,,6593.07,,,,2022,,,,BCEAO EDEN,,BBBSR1016A0BQ
+Consommation publique ,Benin,,,1091.729,,,,2022,,,,BCEAO EDEN,,BBBSR1017A0BP
+Consommation publique a prix constant ,Benin,,,930.22,,,,2022,,,,BCEAO EDEN,,BBBSR1017A0BQ
+Consommation privee ,Benin,,,7019.965,,,,2022,,,,BCEAO EDEN,,BBBSR1018A0BP
+Consommation privee a prix constant ,Benin,,,5662.85,,,,2022,,,,BCEAO EDEN,,BBBSR1018A0BQ
+Formation brute de capital fixe (FBCF) ,Benin,,,3335.897,,,,2022,,,,BCEAO EDEN,,BBBSR1019A0BP
+Formation brute de capital fixe a prix constant ,Benin,,,2613.59,,,,2022,,,,BCEAO EDEN,,BBBSR1019A0BQ
+Variation de stocks ,Benin,,,45.073,,,,2022,,,,BCEAO EDEN,,BBBSR1022A0BP
+Variation de stocks a prix constant ,Benin,,,46.12,,,,2022,,,,BCEAO EDEN,,BBBSR1022A0BQ
+Exportation des biens et services non facteurs ,Benin,,,2660.592,,,,2022,,,,BCEAO EDEN,,BBBSR1023A0BP
+Exportation des biens et services non facteurs a prix constant ,Benin,,,1337.73,,,,2022,,,,BCEAO EDEN,,BBBSR1023A0BQ
+Importation des biens et services non facteurs ,Benin,,,3298.749,,,,2022,,,,BCEAO EDEN,,BBBSR1024A0BP
+Importation des biens et services non facteurs a prix constant ,Benin,,,2182.16,,,,2022,,,,BCEAO EDEN,,BBBSR1024A0BQ
+Deflateur du PIB,Benin,,,104.139,,,,2022,,,,BCEAO EDEN,,BBBSR1025A0BP
+Epargne interieure ,Benin,,,2742.8,,,,2022,,,,BCEAO EDEN,,BBBSR1036A0BP
+Investissement,Benin,,,3381.0,,,,2022,,,,BCEAO EDEN,,BBBSR1037A0BP
+valeur ajoutee du secteur primaire,Benin,,,2919.477,,,,2022,,,,BCEAO EDEN,,BBBSR1038A0BP
+valeur ajoutee du secteur primaire a prix constant ,Benin,,,2272.34,,,,2022,,,,BCEAO EDEN,,BBBSR1038A0BQ
+valeur ajoutee du secteur secondaire ,Benin,,,1847.189,,,,2022,,,,BCEAO EDEN,,BBBSR1039A0BP
+valeur ajoutee du secteur secondaire a prix constant ,Benin,,,1576.21,,,,2022,,,,BCEAO EDEN,,BBBSR1039A0BQ
+valeur ajoutee du secteur tertiaire ,Benin,,,6087.842,,,,2022,,,,BCEAO EDEN,,BBBSR1040A0BP
+valeur ajoutee a prix constant du secteur tertiaire ,Benin,,,4268.5,,,,2022,,,,BCEAO EDEN,,BBBSR1040A0BQ
+Taux de croissance du PIB réel,Benin,,,6.3,,,,2022,,,,BCEAO EDEN,,BBBSR1041A0BP
+Taux d'investissement,Benin,,,31.1,,,,2022,,,,BCEAO EDEN,,BBBSR1042A0BP
+Taux d'epargne interieure,Benin,,,25.3,,,,2022,,,,BCEAO EDEN,,BBBSR1043A0BP
+              Poids (%) : Secteur primaire,Benin,,,26.9,,,,2022,,,,BCEAO EDEN,,BBBSR1044A0BP
+                                 Secteur secondaire,Benin,,,17.0,,,,2022,,,,BCEAO EDEN,,BBBSR1045A0BP
+                                 Secteur tertiaire,Benin,,,56.1,,,,2022,,,,BCEAO EDEN,,BBBSR1046A0BP
+              Contribution a la croissance : Primaire,Benin,,,1.3,,,,2022,,,,BCEAO EDEN,,BBBSR1047A0BP
+              Contribution a la croissance : Secondaire,Benin,,,1.3,,,,2022,,,,BCEAO EDEN,,BBBSR1048A0BP
+              Contribution a la croissance : Tertiaire,Benin,,,3.7,,,,2022,,,,BCEAO EDEN,,BBBSR1049A0BP
+Taux d'epargne interieure publique,Benin,,,2.8,,,,2022,,,,BCEAO EDEN,,BBBSR1050A0BP
+Taux d'investissement public,Benin,,,8.8,,,,2022,,,,BCEAO EDEN,,BBBSR1051A0BP
+valeur ajoutee du secteur des extractions ,Benin,,,46.882,,,,2023,,,,BCEAO EDEN,,BBBSR1003A0BP
+valeur ajoutee des industries ,Benin,,,1200.928,,,,2023,,,,BCEAO EDEN,,BBBSR1004A0BP
+"Valeur ajoutee des gaz, eau, electricite",Benin,,,103.641,,,,2023,,,,BCEAO EDEN,,BBBSR1005A0BP
+Valeur ajoutee des bÃ¢timents et travaux publics aux PIB,Benin,,,713.514,,,,2023,,,,BCEAO EDEN,,BBBSR1006A0BP
+valeur ajoutee du commerce ,Benin,,,1339.678,,,,2023,,,,BCEAO EDEN,,BBBSR1008A0BP
+"Valeur ajoutee des transports, entrepots et communications",Benin,,,1391.315,,,,2023,,,,BCEAO EDEN,,BBBSR1009A0BP
+valeur ajoutee des autres services marchands ,Benin,,,1479.967,,,,2023,,,,BCEAO EDEN,,BBBSR1010A0BP
+Droits et taxes a l'importation,Benin,,,1142.643,,,,2023,,,,BCEAO EDEN,,BBBSR1011A0BP
+Droits et taxes à l'importation à prix constant,Benin,,,1013.21,,,,2023,,,,BCEAO EDEN,,BBBSR1011A0BQ
+PIB marchand ,Benin,,,10450.274,,,,2023,,,,BCEAO EDEN,,BBBSR1012A0BP
+PIB marchand a prix constant ,Benin,,,7816.61,,,,2023,,,,BCEAO EDEN,,BBBSR1012A0BQ
+PIB non marchand ,Benin,,,1484.622,,,,2023,,,,BCEAO EDEN,,BBBSR1013A0BP
+PIB non marchand a prix constant ,Benin,,,1113.95,,,,2023,,,,BCEAO EDEN,,BBBSR1013A0BQ
+Produit interieur brut aux coÃ»ts des facteurs calcule,Benin,,,10792.253,,,,2023,,,,BCEAO EDEN,,BBBSR1014A0BP
+PRODUIT INTERIEUR BRUT (PIB) NOMINAL,Benin,,,11934.9,,,,2023,,,,BCEAO EDEN,,BBBSR1015A0BP
+PIB a prix constant ,Benin,,,8942.51,,,,2023,,,,BCEAO EDEN,,BBBSR1015A0BQ
+Consommation finale,Benin,,,8831.769,,,,2023,,,,BCEAO EDEN,,BBBSR1016A0BP
+Consommation finale a prix constant ,Benin,,,6881.31,,,,2023,,,,BCEAO EDEN,,BBBSR1016A0BQ
+Consommation publique ,Benin,,,1134.316,,,,2023,,,,BCEAO EDEN,,BBBSR1017A0BP
+Consommation publique a prix constant ,Benin,,,934.35,,,,2023,,,,BCEAO EDEN,,BBBSR1017A0BQ
+Consommation privee ,Benin,,,7697.453,,,,2023,,,,BCEAO EDEN,,BBBSR1018A0BP
+Consommation privee a prix constant ,Benin,,,5946.96,,,,2023,,,,BCEAO EDEN,,BBBSR1018A0BQ
+Formation brute de capital fixe (FBCF) ,Benin,,,4072.388,,,,2023,,,,BCEAO EDEN,,BBBSR1019A0BP
+Formation brute de capital fixe a prix constant ,Benin,,,3025.38,,,,2023,,,,BCEAO EDEN,,BBBSR1019A0BQ
+Variation de stocks ,Benin,,,48.839,,,,2023,,,,BCEAO EDEN,,BBBSR1022A0BP
+Variation de stocks a prix constant ,Benin,,,50.53,,,,2023,,,,BCEAO EDEN,,BBBSR1022A0BQ
+Exportation des biens et services non facteurs ,Benin,,,2736.7,,,,2023,,,,BCEAO EDEN,,BBBSR1023A0BP
+Exportation des biens et services non facteurs a prix constant ,Benin,,,1395.21,,,,2023,,,,BCEAO EDEN,,BBBSR1023A0BQ
+Importation des biens et services non facteurs ,Benin,,,3754.8,,,,2023,,,,BCEAO EDEN,,BBBSR1024A0BP
+Importation des biens et services non facteurs a prix constant ,Benin,,,2409.91,,,,2023,,,,BCEAO EDEN,,BBBSR1024A0BQ
+Deflateur du PIB,Benin,,,103.385,,,,2023,,,,BCEAO EDEN,,BBBSR1025A0BP
+Epargne interieure ,Benin,,,3103.1,,,,2023,,,,BCEAO EDEN,,BBBSR1036A0BP
+Investissement,Benin,,,4121.2,,,,2023,,,,BCEAO EDEN,,BBBSR1037A0BP
+valeur ajoutee du secteur primaire,Benin,,,3031.705,,,,2023,,,,BCEAO EDEN,,BBBSR1038A0BP
+valeur ajoutee du secteur primaire a prix constant ,Benin,,,2387.66,,,,2023,,,,BCEAO EDEN,,BBBSR1038A0BQ
+valeur ajoutee du secteur secondaire ,Benin,,,2064.966,,,,2023,,,,BCEAO EDEN,,BBBSR1039A0BP
+valeur ajoutee du secteur secondaire a prix constant ,Benin,,,1691.13,,,,2023,,,,BCEAO EDEN,,BBBSR1039A0BQ
+valeur ajoutee du secteur tertiaire ,Benin,,,6838.225,,,,2023,,,,BCEAO EDEN,,BBBSR1040A0BP
+valeur ajoutee a prix constant du secteur tertiaire ,Benin,,,4518.95,,,,2023,,,,BCEAO EDEN,,BBBSR1040A0BQ
+Taux de croissance du PIB réel,Benin,,,6.4,,,,2023,,,,BCEAO EDEN,,BBBSR1041A0BP
+Taux d'investissement,Benin,,,34.5,,,,2023,,,,BCEAO EDEN,,BBBSR1042A0BP
+Taux d'epargne interieure,Benin,,,26.0,,,,2023,,,,BCEAO EDEN,,BBBSR1043A0BP
+              Poids (%) : Secteur primaire,Benin,,,25.4,,,,2023,,,,BCEAO EDEN,,BBBSR1044A0BP
+                                 Secteur secondaire,Benin,,,17.3,,,,2023,,,,BCEAO EDEN,,BBBSR1045A0BP
+                                 Secteur tertiaire,Benin,,,57.3,,,,2023,,,,BCEAO EDEN,,BBBSR1046A0BP
+              Contribution a la croissance : Primaire,Benin,,,1.4,,,,2023,,,,BCEAO EDEN,,BBBSR1047A0BP
+              Contribution a la croissance : Secondaire,Benin,,,1.2,,,,2023,,,,BCEAO EDEN,,BBBSR1048A0BP
+              Contribution a la croissance : Tertiaire,Benin,,,3.8,,,,2023,,,,BCEAO EDEN,,BBBSR1049A0BP
+Taux d'epargne interieure publique,Benin,,,3.6,,,,2023,,,,BCEAO EDEN,,BBBSR1050A0BP
+Taux d'investissement public,Benin,,,8.5,,,,2023,,,,BCEAO EDEN,,BBBSR1051A0BP
+valeur ajoutee du secteur des extractions ,Benin,,,51.127,,,,2024,,,,BCEAO EDEN,,BBBSR1003A0BP
+valeur ajoutee des industries ,Benin,,,1325.32,,,,2024,,,,BCEAO EDEN,,BBBSR1004A0BP
+"Valeur ajoutee des gaz, eau, electricite",Benin,,,112.367,,,,2024,,,,BCEAO EDEN,,BBBSR1005A0BP
+Valeur ajoutee des bÃ¢timents et travaux publics aux PIB,Benin,,,775.582,,,,2024,,,,BCEAO EDEN,,BBBSR1006A0BP
+valeur ajoutee du commerce ,Benin,,,1512.172,,,,2024,,,,BCEAO EDEN,,BBBSR1008A0BP
+"Valeur ajoutee des transports, entrepots et communications",Benin,,,1615.958,,,,2024,,,,BCEAO EDEN,,BBBSR1009A0BP
+valeur ajoutee des autres services marchands ,Benin,,,1615.139,,,,2024,,,,BCEAO EDEN,,BBBSR1010A0BP
+Droits et taxes a l'importation,Benin,,,1238.118,,,,2024,,,,BCEAO EDEN,,BBBSR1011A0BP
+Droits et taxes à l'importation à prix constant,Benin,,,1088.15,,,,2024,,,,BCEAO EDEN,,BBBSR1011A0BQ
+PIB marchand ,Benin,,,11402.184,,,,2024,,,,BCEAO EDEN,,BBBSR1012A0BP
+PIB marchand a prix constant ,Benin,,,8369.65,,,,2024,,,,BCEAO EDEN,,BBBSR1012A0BQ
+PIB non marchand ,Benin,,,1623.718,,,,2024,,,,BCEAO EDEN,,BBBSR1013A0BP
+PIB non marchand a prix constant ,Benin,,,1225.03,,,,2024,,,,BCEAO EDEN,,BBBSR1013A0BQ
+Produit interieur brut aux coÃ»ts des facteurs calcule,Benin,,,11787.783,,,,2024,,,,BCEAO EDEN,,BBBSR1014A0BP
+PRODUIT INTERIEUR BRUT (PIB) NOMINAL,Benin,,,13025.9,,,,2024,,,,BCEAO EDEN,,BBBSR1015A0BP
+PIB a prix constant ,Benin,,,9608.96,,,,2024,,,,BCEAO EDEN,,BBBSR1015A0BQ
+Consommation finale,Benin,,,8844.171,,,,2024,,,,BCEAO EDEN,,BBBSR1016A0BP
+Consommation finale a prix constant ,Benin,,,7145.99,,,,2024,,,,BCEAO EDEN,,BBBSR1016A0BQ
+Consommation publique ,Benin,,,1174.204,,,,2024,,,,BCEAO EDEN,,BBBSR1017A0BP
+Consommation publique a prix constant ,Benin,,,943.06,,,,2024,,,,BCEAO EDEN,,BBBSR1017A0BQ
+Consommation privee ,Benin,,,7669.967,,,,2024,,,,BCEAO EDEN,,BBBSR1018A0BP
+Consommation privee a prix constant ,Benin,,,6202.93,,,,2024,,,,BCEAO EDEN,,BBBSR1018A0BQ
+Formation brute de capital fixe (FBCF) ,Benin,,,5026.249,,,,2024,,,,BCEAO EDEN,,BBBSR1019A0BP
+Formation brute de capital fixe a prix constant ,Benin,,,3346.2,,,,2024,,,,BCEAO EDEN,,BBBSR1019A0BQ
+Variation de stocks ,Benin,,,51.642,,,,2024,,,,BCEAO EDEN,,BBBSR1022A0BP
+Variation de stocks a prix constant ,Benin,,,52.13,,,,2024,,,,BCEAO EDEN,,BBBSR1022A0BQ
+Exportation des biens et services non facteurs ,Benin,,,2665.455,,,,2024,,,,BCEAO EDEN,,BBBSR1023A0BP
+Exportation des biens et services non facteurs a prix constant ,Benin,,,1456.37,,,,2024,,,,BCEAO EDEN,,BBBSR1023A0BQ
+Importation des biens et services non facteurs ,Benin,,,3561.615,,,,2024,,,,BCEAO EDEN,,BBBSR1024A0BP
+Importation des biens et services non facteurs a prix constant ,Benin,,,2391.72,,,,2024,,,,BCEAO EDEN,,BBBSR1024A0BQ
+Deflateur du PIB,Benin,,,101.572,,,,2024,,,,BCEAO EDEN,,BBBSR1025A0BP
+Epargne interieure ,Benin,,,4181.7,,,,2024,,,,BCEAO EDEN,,BBBSR1036A0BP
+Investissement,Benin,,,5077.9,,,,2024,,,,BCEAO EDEN,,BBBSR1037A0BP
+valeur ajoutee du secteur primaire,Benin,,,3156.401,,,,2024,,,,BCEAO EDEN,,BBBSR1038A0BP
+valeur ajoutee du secteur primaire a prix constant ,Benin,,,2528.74,,,,2024,,,,BCEAO EDEN,,BBBSR1038A0BQ
+valeur ajoutee du secteur secondaire ,Benin,,,2264.396,,,,2024,,,,BCEAO EDEN,,BBBSR1039A0BP
+valeur ajoutee du secteur secondaire a prix constant ,Benin,,,1854.5,,,,2024,,,,BCEAO EDEN,,BBBSR1039A0BQ
+valeur ajoutee du secteur tertiaire ,Benin,,,7605.105,,,,2024,,,,BCEAO EDEN,,BBBSR1040A0BP
+valeur ajoutee a prix constant du secteur tertiaire ,Benin,,,4818.05,,,,2024,,,,BCEAO EDEN,,BBBSR1040A0BQ
+Taux de croissance du PIB réel,Benin,,,7.5,,,,2024,,,,BCEAO EDEN,,BBBSR1041A0BP
+Taux d'investissement,Benin,,,39.0,,,,2024,,,,BCEAO EDEN,,BBBSR1042A0BP
+Taux d'epargne interieure,Benin,,,32.1,,,,2024,,,,BCEAO EDEN,,BBBSR1043A0BP
+              Poids (%) : Secteur primaire,Benin,,,24.2,,,,2024,,,,BCEAO EDEN,,BBBSR1044A0BP
+                                 Secteur secondaire,Benin,,,17.4,,,,2024,,,,BCEAO EDEN,,BBBSR1045A0BP
+                                 Secteur tertiaire,Benin,,,58.4,,,,2024,,,,BCEAO EDEN,,BBBSR1046A0BP
+              Contribution a la croissance : Primaire,Benin,,,1.6,,,,2024,,,,BCEAO EDEN,,BBBSR1047A0BP
+              Contribution a la croissance : Secondaire,Benin,,,1.6,,,,2024,,,,BCEAO EDEN,,BBBSR1048A0BP
+              Contribution a la croissance : Tertiaire,Benin,,,4.3,,,,2024,,,,BCEAO EDEN,,BBBSR1049A0BP
+Taux d'epargne interieure publique,Benin,,,3.9,,,,2024,,,,BCEAO EDEN,,BBBSR1050A0BP
+Taux d'investissement public,Benin,,,7.9,,,,2024,,,,BCEAO EDEN,,BBBSR1051A0BP
